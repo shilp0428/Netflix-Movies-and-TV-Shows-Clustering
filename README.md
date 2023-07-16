@@ -48,7 +48,7 @@ From that point forward, all that was left was to track down the clusters and fi
 
 - director-director of the content
 
-- cast –Actors involved in the movie / show
+- cast Actors involved in the movie / show
 
 - country – Country where the movie / show was produced
 
