@@ -10,7 +10,7 @@ Netflix Movies and TV Shows Clustering
 
 📖 Introduction:
 
--Netflix is a well-known entertainment provider that is used by millions of people all over the world.
+- Netflix is a well-known entertainment provider that is used by millions of people all over the world.
 
 This EDA will use Python libraries, matplotlib, and Seaborn to examine the Netflix dataset through visualizations and graphs.
 
