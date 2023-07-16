@@ -44,7 +44,7 @@ From that point forward, all that was left was to track down the clusters and fi
 
 - type – Identifier - A Movie or TV Show
 
-– Title of the Movie / Tv Show
+- Title of the Movie / Tv Show
 
 - director-director of the content
 
