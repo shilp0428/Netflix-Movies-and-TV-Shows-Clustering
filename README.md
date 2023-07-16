@@ -9,7 +9,8 @@ Netflix Movies and TV Shows Clustering
 - Conclusion
 
 📖 Introduction:
-Netflix is a well-known entertainment provider that is used by millions of people all over the world.
+
+-Netflix is a well-known entertainment provider that is used by millions of people all over the world.
 
 This EDA will use Python libraries, matplotlib, and Seaborn to examine the Netflix dataset through visualizations and graphs.
 
@@ -25,12 +26,10 @@ We can also employ machine learning to improve video and audio encoding, adaptiv
 
 Our major goal in this project is to identify clusters based on similar content by matching text-based features such as the description column, which in our case is a brief summary description of the contents.
 
-image
-
 -----------------------------------------------------
 
 📖 Abstract:
-The objective was to anticipate bunches of comparable substance by matching text-based elements.
+- The objective was to anticipate bunches of comparable substance by matching text-based elements.
 
 Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, some hypothesis testing was additionally performed from the experiences from EDA.
 
@@ -41,34 +40,35 @@ From that point forward, all that was left was to track down the clusters and fi
 -----------------------------------------------------
 
 📖 Dataset information:
-Show id: Unique ID for every Movie / Tv Show
+- Show id: Unique ID for every Movie / Tv Show
 
-type – Identifier - A Movie or TV Show
+- type – Identifier - A Movie or TV Show
 
-title – Title of the Movie / Tv Show
+– Title of the Movie / Tv Show
 
-director-director of the content
+- director-director of the content
 
-cast –Actors involved in the movie / show
+- cast –Actors involved in the movie / show
 
-country – Country where the movie / show was produced
+- country – Country where the movie / show was produced
 
-date added – Date it was added on Netflix
+- date added – Date it was added on Netflix
 
-release year – Actual Release year of the movie / show
+- release year – Actual Release year of the movie / show
 
-rating – TV Rating of the movie / show
+- rating – TV Rating of the movie / show
 
-duration – Total Duration - in minutes or number of seasons
+- duration – Total Duration - in minutes or number of seasons
 
-listed in – genre
+- listed in – genre
 
-description – The Summary description
+- description – The Summary description
 
 -----------------------------------------------------
 
 📖 Problem Statement:
-This dataset consists of TV shows and movies available on Netflix as of 2019.
+
+- This dataset consists of TV shows and movies available on Netflix as of 2019.
 
 The dataset is collected from Flexible which is a third-party Netflix search engine
 
@@ -83,7 +83,8 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 -----------------------------------------------------
 
 📖 Conclusion:
-Our main goal in this project was to determine different clusters based on content, which we have done.
+
+- Our main goal in this project was to determine different clusters based on content, which we have done.
 
 After using the Silhouette score and the elbow method, we found that 28 clusters would be suitable.
 
