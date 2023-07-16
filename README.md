@@ -1,13 +1,13 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 Netflix Movies and TV Shows Clustering
 
+-----------------------------------------------------
 💾 Table of Content
 Introduction
 Abstract
 Dataset Information
 Problem Statement
 Conclusion
------------------------------------------------------
 
 📖 Introduction:
 Netflix is a well-known entertainment provider that is used by millions of people all over the world.
